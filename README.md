@@ -47,3 +47,6 @@ here you can see all the editions of katifetch and ported :)
 
 <img width="428" height="871" alt="image" src="https://github.com/user-attachments/assets/a7145ef7-c8d2-4192-ae44-9957e4e65200" />
 
+# Katifetch Discord and telegram bot
+
+https://github.com/user-attachments/assets/5a415e00-5db6-4e42-8be9-3f147c9a1f06
